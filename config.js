@@ -1,4 +1,4 @@
 window.CELUVENTA_CONFIG = {
-  SUPABASE_URL: "PEGA_AQUI_TU_URL_DE_SUPABASE",
-  SUPABASE_ANON_KEY: "PEGA_AQUI_TU_CLAVE_PUBLICA_ANON"
+  SUPABASE_URL: "https://vtwotlrrkocjpnmhxnxh.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_bDV9A30RgcfgTHaIVOEEmA_uVHbhw6P"
 };
